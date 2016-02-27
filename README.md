@@ -9,5 +9,5 @@
 [Michael Hartl](http://www.michaelhartl.com/)著
 
 ## 2016/02/25
-
+## 2016/02/27
 <tt>rake doc:app</tt>.
